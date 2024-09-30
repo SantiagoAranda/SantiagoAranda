@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-- 📫 How to reach me **santiagobenjaminaranda4@gmail.com**
+- 📫 How to reach me **santiagobenjaminaranda4@gmail.com** <br>
 https://www.linkedin.com/in/santiago-aranda-586997239/
 
 <h3 align="left">Languages and Tools:</h3>
